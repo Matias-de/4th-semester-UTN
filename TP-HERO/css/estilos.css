@@ -1,0 +1,48 @@
+.hero{
+    background-color:#219fe7;
+    color: wheat;
+    text-align: center;
+    padding: 30px;
+    margin: 15px;
+    position: sticky;
+}
+.btn1{
+    font-size:small;
+    padding: 10px;
+    margin: 20px;
+    background-color: #f5f5f5;
+    color: #219fe7;
+    border-radius: 10px;
+    border:1px dashed #f5f5f5;
+    text-decoration: none;
+}
+.btn1:hover{
+    background-color: #ff1e78;
+    color:  wheat;
+    text-decoration: underline;
+    padding: 14px 14px;
+}
+
+.navBar{
+    background-color: #f71570;
+    padding: 10px 0;
+    text-align: center;
+}
+
+
+.navBar li{
+    display: inline-block;
+    list-style-type:none;
+    margin: 0 20px;
+}
+.navBar a{
+    text-decoration: none;
+    padding: 15px;
+    font-size: 18px;
+    color: wheat;
+}
+
+.navBar a:hover{
+    background-color: #ca0655;
+    padding: 25px;
+}
